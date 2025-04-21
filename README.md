@@ -8,7 +8,7 @@
 ---
 
 ## 🔗 Live Demo
-👉 [View Website](#)  
+👉 [View Website](https://nautan-pranami.github.io/healthcare-clinic-website/index.html)  
 *(Replace with your Netlify/GitHub Pages link once deployed)*
 
 ---
